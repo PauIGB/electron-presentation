@@ -1,0 +1,17 @@
+{
+  "name": "destop-cleaner",
+  "version": "1.0.0",
+  "description": "simple app for presentation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "keywords": [],
+  "author": "paul k",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.0",
+    "electron-builder": "^22.14.13"
+  }
+}
