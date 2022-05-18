@@ -1,7 +1,8 @@
 # electron-presentation
 
-Desktop cleaner
-app replace all files from computer desktop to desktop folder
+# Desktop cleaner (sample app)
+`computer desktop cleaning in one click`
+app replaces all files from computer desktop to folder called 'desktop-folder' on button click
 
 for npm:
 `npm install` - install dependencies
