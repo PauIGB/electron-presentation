@@ -1,5 +1,8 @@
 # electron-presentation
 
+Desktop cleaner
+app replace all files from computer desktop to desktop folder
+
 for npm:
 `npm install` - install dependencies
 `npm start` - start in dev mode
